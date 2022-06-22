@@ -25,5 +25,3 @@ function fortuneTeller(fortune) {
     return fortune
 }
 console.log(fortuneTeller(fortune))
-
-// I will get the expected outcomes for the fortune; however, there is also an 'undefined' note under each outcome. What is that from?
